@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.redlimerl.limitlessstructure.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "StructureBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
